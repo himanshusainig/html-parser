@@ -11,3 +11,6 @@ libraryDependencies ++= Seq(
   cache,
   javaWs
 )
+
+libraryDependencies += "org.jsoup" % "jsoup" % "1.10.2"
+
